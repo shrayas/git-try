@@ -4,8 +4,6 @@ qqq
 qqq
 shrayas-asdf
 shrayas-asdf
-shrayas-asdf
-shrayas-qwer
 shrayas-qwer
 shrayas-qwer
 shrayas-qwer
