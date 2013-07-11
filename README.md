@@ -5,8 +5,6 @@ shrayas-qwer
 shrayas-qwer
 shrayas-qwer
 shrayas-qwer
-shrayas-qwer
-Rag
 Rag
 Rag
 Rag
